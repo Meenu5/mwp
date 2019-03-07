@@ -1,0 +1,180 @@
+data/complete/10_10/master/10_10_1.txt
+count : 4
+data/complete/10_10/master/10_10_2.txt
+count : 6
+data/complete/10_10/master/10_10_3.txt
+count : 9
+data/complete/10_10/master/10_10_4.txt
+count : 8
+data/complete/10_10/master/10_10_5.txt
+count : 11
+data/complete/50_50/master/50_50_1.txt
+count : 23
+data/complete/50_50/master/50_50_2.txt
+count : 39
+data/complete/50_50/master/50_50_3.txt
+count : 28
+data/complete/50_50/master/50_50_4.txt
+count : 41
+data/complete/50_50/master/50_50_5.txt
+count : 54
+data/complete/100_100/master/100_100_1.txt
+count : 123
+data/complete/100_100/master/100_100_2.txt
+count : 33
+data/complete/100_100/master/100_100_3.txt
+count : 131
+data/complete/100_100/master/100_100_4.txt
+count : 152
+data/complete/100_100/master/100_100_5.txt
+count : 98
+data/complete/200_200/master/200_200_1.txt
+count : 184
+data/complete/200_200/master/200_200_2.txt
+count : 171
+data/complete/200_200/master/200_200_3.txt
+count : 163
+data/complete/200_200/master/200_200_4.txt
+count : 123
+data/complete/200_200/master/200_200_5.txt
+count : 246
+data/complete/500_500/master/500_500_1.txt
+count : 368
+data/complete/500_500/master/500_500_2.txt
+count : 438
+data/complete/500_500/master/500_500_3.txt
+count : 320
+data/complete/500_500/master/500_500_4.txt
+count : 362
+data/complete/500_500/master/500_500_5.txt
+count : 347
+data/complete/1000_1000/master/1000_1000_1.txt
+count : 643
+data/complete/1000_1000/master/1000_1000_2.txt
+count : 848
+data/complete/1000_1000/master/1000_1000_3.txt
+count : 628
+data/complete/1000_1000/master/1000_1000_4.txt
+count : 669
+data/complete/1000_1000/master/1000_1000_5.txt
+count : 699
+data/complete/10_10/shuffle/10_10_1.txt
+count : 9
+data/complete/10_10/shuffle/10_10_2.txt
+count : 5
+data/complete/10_10/shuffle/10_10_3.txt
+count : 7
+data/complete/10_10/shuffle/10_10_4.txt
+count : 7
+data/complete/10_10/shuffle/10_10_5.txt
+count : 9
+data/complete/50_50/shuffle/50_50_1.txt
+count : 75
+data/complete/50_50/shuffle/50_50_2.txt
+count : 134
+data/complete/50_50/shuffle/50_50_3.txt
+count : 70
+data/complete/50_50/shuffle/50_50_4.txt
+count : 15
+data/complete/50_50/shuffle/50_50_5.txt
+count : 151
+data/complete/100_100/shuffle/100_100_1.txt
+count : 96
+data/complete/100_100/shuffle/100_100_2.txt
+count : 73
+data/complete/100_100/shuffle/100_100_3.txt
+count : 177
+data/complete/100_100/shuffle/100_100_4.txt
+count : 48
+data/complete/100_100/shuffle/100_100_5.txt
+count : 127
+data/complete/200_200/shuffle/200_200_1.txt
+count : 305
+data/complete/200_200/shuffle/200_200_2.txt
+count : 176
+data/complete/200_200/shuffle/200_200_3.txt
+count : 303
+data/complete/200_200/shuffle/200_200_4.txt
+count : 170
+data/complete/200_200/shuffle/200_200_5.txt
+count : 175
+data/complete/500_500/shuffle/500_500_1.txt
+count : 538
+data/complete/500_500/shuffle/500_500_2.txt
+count : 486
+data/complete/500_500/shuffle/500_500_3.txt
+count : 485
+data/complete/500_500/shuffle/500_500_4.txt
+count : 593
+data/complete/500_500/shuffle/500_500_5.txt
+count : 427
+data/complete/1000_1000/shuffle/1000_1000_1.txt
+count : 845
+data/complete/1000_1000/shuffle/1000_1000_2.txt
+count : 2437
+data/complete/1000_1000/shuffle/1000_1000_3.txt
+count : 2303
+data/complete/1000_1000/shuffle/1000_1000_4.txt
+count : 1802
+data/complete/1000_1000/shuffle/1000_1000_5.txt
+count : 722
+data/complete/10_10/random/10_10_1.txt
+count : 9
+data/complete/10_10/random/10_10_2.txt
+count : 20
+data/complete/10_10/random/10_10_3.txt
+count : 12
+data/complete/10_10/random/10_10_4.txt
+count : 7
+data/complete/10_10/random/10_10_5.txt
+count : 10
+data/complete/50_50/random/50_50_1.txt
+count : 99
+data/complete/50_50/random/50_50_2.txt
+count : 55
+data/complete/50_50/random/50_50_3.txt
+count : 53
+data/complete/50_50/random/50_50_4.txt
+count : 143
+data/complete/50_50/random/50_50_5.txt
+count : 157
+data/complete/100_100/random/100_100_1.txt
+count : 65
+data/complete/100_100/random/100_100_2.txt
+count : 118
+data/complete/100_100/random/100_100_3.txt
+count : 292
+data/complete/100_100/random/100_100_4.txt
+count : 217
+data/complete/100_100/random/100_100_5.txt
+count : 97
+data/complete/200_200/random/200_200_1.txt
+count : 168
+data/complete/200_200/random/200_200_2.txt
+count : 588
+data/complete/200_200/random/200_200_3.txt
+count : 108
+data/complete/200_200/random/200_200_4.txt
+count : 392
+data/complete/200_200/random/200_200_5.txt
+count : 291
+data/complete/500_500/random/500_500_1.txt
+count : 1248
+data/complete/500_500/random/500_500_2.txt
+count : 474
+data/complete/500_500/random/500_500_3.txt
+count : 444
+data/complete/500_500/random/500_500_4.txt
+count : 637
+data/complete/500_500/random/500_500_5.txt
+count : 376
+data/complete/1000_1000/random/1000_1000_1.txt
+count : 2091
+data/complete/1000_1000/random/1000_1000_2.txt
+count : 1347
+data/complete/1000_1000/random/1000_1000_3.txt
+count : 670
+data/complete/1000_1000/random/1000_1000_4.txt
+count : 2447
+data/complete/1000_1000/random/1000_1000_5.txt
+count : 1603

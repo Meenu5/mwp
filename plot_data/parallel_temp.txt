@@ -1,0 +1,180 @@
+data/complete/10_10/master/10_10_1.txt
+read time : 22.000000 us, compute time : 125.120003 us
+data/complete/10_10/master/10_10_2.txt
+read time : 25.000000 us, compute time : 182.175995 us
+data/complete/10_10/master/10_10_3.txt
+read time : 22.000000 us, compute time : 220.351990 us
+data/complete/10_10/master/10_10_4.txt
+read time : 22.000000 us, compute time : 202.399994 us
+data/complete/10_10/master/10_10_5.txt
+read time : 23.000000 us, compute time : 291.264008 us
+data/complete/50_50/master/50_50_1.txt
+read time : 487.000000 us, compute time : 546.527954 us
+data/complete/50_50/master/50_50_2.txt
+read time : 586.000000 us, compute time : 862.623962 us
+data/complete/50_50/master/50_50_3.txt
+read time : 489.000000 us, compute time : 608.223999 us
+data/complete/50_50/master/50_50_4.txt
+read time : 548.000000 us, compute time : 931.552002 us
+data/complete/50_50/master/50_50_5.txt
+read time : 549.000000 us, compute time : 1181.952026 us
+data/complete/100_100/master/100_100_1.txt
+read time : 1995.000000 us, compute time : 3232.959961 us
+data/complete/100_100/master/100_100_2.txt
+read time : 2480.000000 us, compute time : 2025.183960 us
+data/complete/100_100/master/100_100_3.txt
+read time : 5971.000000 us, compute time : 2745.183838 us
+data/complete/100_100/master/100_100_4.txt
+read time : 2574.000000 us, compute time : 6651.359863 us
+data/complete/100_100/master/100_100_5.txt
+read time : 2342.000000 us, compute time : 2196.000000 us
+data/complete/200_200/master/200_200_1.txt
+read time : 9080.000000 us, compute time : 3841.728027 us
+data/complete/200_200/master/200_200_2.txt
+read time : 9166.000000 us, compute time : 3639.199951 us
+data/complete/200_200/master/200_200_3.txt
+read time : 12006.000000 us, compute time : 3434.687988 us
+data/complete/200_200/master/200_200_4.txt
+read time : 9121.000000 us, compute time : 2725.631836 us
+data/complete/200_200/master/200_200_5.txt
+read time : 14042.000000 us, compute time : 5162.399902 us
+data/complete/500_500/master/500_500_1.txt
+read time : 56095.000000 us, compute time : 7725.248047 us
+data/complete/500_500/master/500_500_2.txt
+read time : 53428.000000 us, compute time : 9077.375977 us
+data/complete/500_500/master/500_500_3.txt
+read time : 66405.000000 us, compute time : 6634.719727 us
+data/complete/500_500/master/500_500_4.txt
+read time : 54127.000000 us, compute time : 7558.976074 us
+data/complete/500_500/master/500_500_5.txt
+read time : 53963.000000 us, compute time : 7166.624023 us
+data/complete/1000_1000/master/1000_1000_1.txt
+read time : 240212.000000 us, compute time : 16869.472656 us
+data/complete/1000_1000/master/1000_1000_2.txt
+read time : 241223.000000 us, compute time : 18155.583984 us
+data/complete/1000_1000/master/1000_1000_3.txt
+read time : 228724.000000 us, compute time : 13508.768555 us
+data/complete/1000_1000/master/1000_1000_4.txt
+read time : 243461.000000 us, compute time : 14710.656250 us
+data/complete/1000_1000/master/1000_1000_5.txt
+read time : 240053.000000 us, compute time : 15422.528320 us
+data/complete/10_10/shuffle/10_10_1.txt
+read time : 23.000000 us, compute time : 222.559998 us
+data/complete/10_10/shuffle/10_10_2.txt
+read time : 25.000000 us, compute time : 153.983994 us
+data/complete/10_10/shuffle/10_10_3.txt
+read time : 22.000000 us, compute time : 186.304001 us
+data/complete/10_10/shuffle/10_10_4.txt
+read time : 23.000000 us, compute time : 233.792007 us
+data/complete/10_10/shuffle/10_10_5.txt
+read time : 23.000000 us, compute time : 226.464005 us
+data/complete/50_50/shuffle/50_50_1.txt
+read time : 488.000000 us, compute time : 1555.744019 us
+data/complete/50_50/shuffle/50_50_2.txt
+read time : 550.000000 us, compute time : 6189.343750 us
+data/complete/50_50/shuffle/50_50_3.txt
+read time : 529.000000 us, compute time : 3620.160156 us
+data/complete/50_50/shuffle/50_50_4.txt
+read time : 488.000000 us, compute time : 367.264008 us
+data/complete/50_50/shuffle/50_50_5.txt
+read time : 577.000000 us, compute time : 7251.135742 us
+data/complete/100_100/shuffle/100_100_1.txt
+read time : 3530.000000 us, compute time : 4304.288086 us
+data/complete/100_100/shuffle/100_100_2.txt
+read time : 2147.000000 us, compute time : 4219.264160 us
+data/complete/100_100/shuffle/100_100_3.txt
+read time : 2174.000000 us, compute time : 7031.808105 us
+data/complete/100_100/shuffle/100_100_4.txt
+read time : 2002.000000 us, compute time : 1172.671997 us
+data/complete/100_100/shuffle/100_100_5.txt
+read time : 2055.000000 us, compute time : 2832.736084 us
+data/complete/200_200/shuffle/200_200_1.txt
+read time : 8803.000000 us, compute time : 6342.208008 us
+data/complete/200_200/shuffle/200_200_2.txt
+read time : 8859.000000 us, compute time : 3932.352051 us
+data/complete/200_200/shuffle/200_200_3.txt
+read time : 8744.000000 us, compute time : 6242.527832 us
+data/complete/200_200/shuffle/200_200_4.txt
+read time : 8832.000000 us, compute time : 3673.823975 us
+data/complete/200_200/shuffle/200_200_5.txt
+read time : 8737.000000 us, compute time : 3674.624023 us
+data/complete/500_500/shuffle/500_500_1.txt
+read time : 53063.000000 us, compute time : 11144.351562 us
+data/complete/500_500/shuffle/500_500_2.txt
+read time : 63377.000000 us, compute time : 10238.975586 us
+data/complete/500_500/shuffle/500_500_3.txt
+read time : 68251.000000 us, compute time : 11838.368164 us
+data/complete/500_500/shuffle/500_500_4.txt
+read time : 54957.000000 us, compute time : 12033.120117 us
+data/complete/500_500/shuffle/500_500_5.txt
+read time : 54093.000000 us, compute time : 8749.856445 us
+data/complete/1000_1000/shuffle/1000_1000_1.txt
+read time : 236450.000000 us, compute time : 23951.263672 us
+data/complete/1000_1000/shuffle/1000_1000_2.txt
+read time : 241432.000000 us, compute time : 61743.773438 us
+data/complete/1000_1000/shuffle/1000_1000_3.txt
+read time : 238618.000000 us, compute time : 58853.214844 us
+data/complete/1000_1000/shuffle/1000_1000_4.txt
+read time : 235092.000000 us, compute time : 37609.183594 us
+data/complete/1000_1000/shuffle/1000_1000_5.txt
+read time : 260511.000000 us, compute time : 26876.384766 us
+data/complete/10_10/random/10_10_1.txt
+read time : 28.000000 us, compute time : 1347.615967 us
+data/complete/10_10/random/10_10_2.txt
+read time : 23.000000 us, compute time : 464.639984 us
+data/complete/10_10/random/10_10_3.txt
+read time : 52.000000 us, compute time : 355.712006 us
+data/complete/10_10/random/10_10_4.txt
+read time : 22.000000 us, compute time : 184.832001 us
+data/complete/10_10/random/10_10_5.txt
+read time : 23.000000 us, compute time : 258.175995 us
+data/complete/50_50/random/50_50_1.txt
+read time : 496.000000 us, compute time : 2133.407959 us
+data/complete/50_50/random/50_50_2.txt
+read time : 491.000000 us, compute time : 1279.711914 us
+data/complete/50_50/random/50_50_3.txt
+read time : 518.000000 us, compute time : 1173.215942 us
+data/complete/50_50/random/50_50_4.txt
+read time : 507.000000 us, compute time : 2982.719971 us
+data/complete/50_50/random/50_50_5.txt
+read time : 834.000000 us, compute time : 3244.352051 us
+data/complete/100_100/random/100_100_1.txt
+read time : 2610.000000 us, compute time : 3566.879883 us
+data/complete/100_100/random/100_100_2.txt
+read time : 2047.000000 us, compute time : 2622.335938 us
+data/complete/100_100/random/100_100_3.txt
+read time : 2055.000000 us, compute time : 6059.872070 us
+data/complete/100_100/random/100_100_4.txt
+read time : 2028.000000 us, compute time : 10725.536133 us
+data/complete/100_100/random/100_100_5.txt
+read time : 2413.000000 us, compute time : 2165.888184 us
+data/complete/200_200/random/200_200_1.txt
+read time : 8799.000000 us, compute time : 3495.488037 us
+data/complete/200_200/random/200_200_2.txt
+read time : 8827.000000 us, compute time : 12462.911133 us
+data/complete/200_200/random/200_200_3.txt
+read time : 9163.000000 us, compute time : 5669.919922 us
+data/complete/200_200/random/200_200_4.txt
+read time : 12277.000000 us, compute time : 24930.369141 us
+data/complete/200_200/random/200_200_5.txt
+read time : 9458.000000 us, compute time : 9323.007812 us
+data/complete/500_500/random/500_500_1.txt
+read time : 63031.000000 us, compute time : 24950.080078 us
+data/complete/500_500/random/500_500_2.txt
+read time : 62382.000000 us, compute time : 10907.328125 us
+data/complete/500_500/random/500_500_3.txt
+read time : 54000.000000 us, compute time : 9251.135742 us
+data/complete/500_500/random/500_500_4.txt
+read time : 54680.000000 us, compute time : 22061.183594 us
+data/complete/500_500/random/500_500_5.txt
+read time : 53907.000000 us, compute time : 8230.943359 us
+data/complete/1000_1000/random/1000_1000_1.txt
+read time : 237082.000000 us, compute time : 49119.937500 us
+data/complete/1000_1000/random/1000_1000_2.txt
+read time : 248145.000000 us, compute time : 27718.113281 us
+data/complete/1000_1000/random/1000_1000_3.txt
+read time : 256897.000000 us, compute time : 14001.695312 us
+data/complete/1000_1000/random/1000_1000_4.txt
+read time : 261774.000000 us, compute time : 114966.531250 us
+data/complete/1000_1000/random/1000_1000_5.txt
+read time : 239213.000000 us, compute time : 81053.984375 us
