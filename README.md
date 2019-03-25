@@ -1,9 +1,6 @@
-# mwp2
+# Matching With Preference
 
-This is the git repo for the matching with preference project for gpu programming
-
-### J. Prem Krishnaa (CS14B049)
-### R. Meenakshi (AE15B051)
+This is the git repo for the matching with preference project for gpu programming.
 
 ---------------------------------------------------------------------------------
 
